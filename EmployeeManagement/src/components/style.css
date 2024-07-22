@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loginPage{
+    background-color: antiquewhite;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.loginForm{
+    background-color: #45474B;
+    color: white;
+}
+.loginForm .form-control{
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+} 
+.loginForm .login-btn{
+    /* position: absolute; */
+    width: 100%;
+    padding: 8px;
+    align-items: center;
+    /* margin: auto;   */
+    /* text-align: center; */
+    /* text-transform: capitalize; */
+
+}
